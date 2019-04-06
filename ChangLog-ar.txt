@@ -1,4 +1,4 @@
-{"version_code":451200,"content":"
+{"version_code":451212,"content":"
 <p>تحديث</p>
 
 <li> ازالة رساله التحديث المزعجة</li>
@@ -8,5 +8,5 @@
 <li> Removed annoying update WhatsApp message</li>
 
 
-","url":"https://www.devsaif.com/sawhatsapp/"
+","url":"https://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
 }
